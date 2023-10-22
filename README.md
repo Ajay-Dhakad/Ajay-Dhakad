@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on being Better<br>🌱 I’m currently learning Javascript and React<br>💬 Ask me about MERN<br>
+🔭 I’m currently working on being Better<br>🌱 currently learning Javascript and React<br>💬 Ask me about MERN and PYTHON<br>
 
 
 ## 🌐 Socials:
