@@ -1,8 +1,8 @@
 #### What Drives Me:
 
-🚀 I thrive on the challenges of creating robust and scalable software solutions.
-🌐 Building applications that make a positive impact on people's lives is my ultimate goal.
-🔍 I enjoy diving into new technologies and frameworks to stay ahead in the ever-evolving tech landscape.
+🚀 I thrive on the challenges of creating robust and scalable software solutions. </br>
+🌐 Building applications that make a positive impact on people's lives is my ultimate goal. </br>
+🔍 I enjoy diving into new technologies and frameworks to stay ahead in the ever-evolving tech landscape. </br>
 
 
 
