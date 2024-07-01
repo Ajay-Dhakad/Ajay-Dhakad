@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-I'm Ajay Dhakad, a BCA 2nd-year student with a passion for exploring the vast world of technology. </br> Currently on a coding adventure, I've successfully navigated the frontend landscape with JavaScript and React, crafting visually appealing and interactive user interfaces.
+I'm Ajay Dhakad, A Curious person with a passion for exploring the vast world of technology. </br> Currently on a coding adventure, I've successfully navigated the frontend landscape with JavaScript and React, crafting visually appealing and interactive user interfaces.
 
 ### What I'm Excited About:
 
