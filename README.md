@@ -67,11 +67,11 @@ const ajay = {
 </td>
 <td width="50%">
 
-### 🎟️ Event Management App
-> IBM Hackathon — ThinkFest 2026
+### 🤖 AI Customer Service & Ticketing
+> IBM Hackathon — ThinkFest 2026 (SVVV, Indore)
 
+- AI-powered query resolution + ticket routing
 - JWT-signed QR codes + Razorpay payments
-- Socket.io real-time updates
 - Sarvam AI — Indic language support
 - Built in **Next.js + Express.js**
 
@@ -82,13 +82,15 @@ const ajay = {
 <tr>
 <td width="50%">
 
-### 📍 Attendance Automation System
+### 📍 Attendance Management System
 > 24-Hour Hackathon Build
 
 - Rotating QR codes + GPS geofencing
 - Redis nonce validation
 - Device fingerprinting + anomaly logging
 - **Next.js + Strapi + Socket.io**
+
+[![Live](https://img.shields.io/badge/Live-attendance--fe.vercel.app-7c3aed?style=flat-square&logo=vercel)](https://attendence-management-fe.vercel.app/)
 
 </td>
 <td width="50%">
@@ -100,6 +102,23 @@ const ajay = {
 - Team/task/client structures
 - Employee attendance with selfie capture
 - **React + Express.js + MongoDB**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌌 Void AI
+> Minimal Claude-powered AI wrapper
+
+- Clean interface over Claude API
+- Built for speed and usability
+- **Next.js + Tailwind CSS**
+
+[![Live](https://img.shields.io/badge/Live-thevoidai.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://thevoidai.vercel.app)
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
@@ -167,6 +186,7 @@ const ajay = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-dhakad-01126324b)
 [![Instagram](https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Dhakad_ajay99)
 [![NeuraView](https://img.shields.io/badge/NeuraView_AI-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://neuraview.vercel.app)
+[![VoidAI](https://img.shields.io/badge/Void_AI-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thevoidai.vercel.app)
 
 <br/>
 
