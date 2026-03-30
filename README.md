@@ -1,31 +1,183 @@
-## Hello World! 👋
+<div align="center">
 
-I'm Ajay Dhakad, A Curious person with a passion for exploring the vast world of technology. </br> Currently on a coding adventure, I've successfully navigated the frontend landscape with JavaScript and React, crafting visually appealing and interactive user interfaces.
+```
+ █████╗      ██╗ █████╗ ██╗   ██╗
+██╔══██╗     ██║██╔══██╗╚██╗ ██╔╝
+███████║     ██║███████║ ╚████╔╝ 
+██╔══██║██   ██║██╔══██║  ╚██╔╝  
+██║  ██║╚█████╔╝██║  ██║   ██║   
+╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝   ╚═╝  
+```
 
-### What I'm Excited About:
+### Full-Stack Developer · MCA · Indore, India
 
-🚀 Now, I'm delving into the backend realm to complete the full-stack puzzle. </br>
-🌐 Always eager to discover and master new technologies that power the web.</br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+products+that+scale.;React+%2B+Next.js+%2B+Node.js+%2B+MongoDB.;Turning+ideas+into+shipped+software.;Currently+shipping+NeuraView+AI+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Dhakad_ajay99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/ajay-dhakad-01126324b) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ajay-Dhakad&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Dhakad&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ajay-Dhakad&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ajay-Dhakad&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Ajay-Dhakad&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d14&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&rank_icon=github" />
+
+## `whoami`
+
+```js
+const ajay = {
+  role:     "Full-Stack Developer",
+  degree:   "MCA (1st Year)",
+  location: "Indore, India 🇮🇳",
+  building: "NeuraView AI — AI Interview Coach",
+  
+  stack: {
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    backend:  ["Node.js", "Express.js"],
+    database: ["MongoDB", "Redis"],
+    realtime: ["Socket.io"],
+    infra:    ["AWS S3", "Vercel"],
+  },
+
+  currentFocus: [
+    "System design patterns",
+    "Scalable backend architecture",
+    "Product-based MNC internships",
+  ],
+};
+```
+
+<br clear="right"/>
+
+---
+
+## ⚡ Shipped Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 NeuraView AI
+> AI-powered mock interview platform
+
+- Deep purple/indigo design identity
+- Three.js promotional assets  
+- Built with teammate Devendra (AI & Backend)
+- Role: **Frontend & System Architect**
+
+[![Live](https://img.shields.io/badge/Live-neuraview.vercel.app-7c3aed?style=flat-square&logo=vercel)](https://neuraview.vercel.app)
+
+</td>
+<td width="50%">
+
+### 🎟️ Event Management App
+> IBM Hackathon — ThinkFest 2026
+
+- JWT-signed QR codes + Razorpay payments
+- Socket.io real-time updates
+- Sarvam AI — Indic language support
+- Built in **Next.js + Express.js**
+
+![Hackathon](https://img.shields.io/badge/IBM_Hackathon-ThinkFest_2026-1d4ed8?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📍 Attendance Automation System
+> 24-Hour Hackathon Build
+
+- Rotating QR codes + GPS geofencing
+- Redis nonce validation
+- Device fingerprinting + anomaly logging
+- **Next.js + Strapi + Socket.io**
+
+</td>
+<td width="50%">
+
+### 🗂️ Multi-Tenant CRM
+> Subscription-based SaaS for real clients
+
+- Role-based permissions + agency mgmt
+- Team/task/client structures
+- Employee attendance with selfie capture
+- **React + Express.js + MongoDB**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=4ade80)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f1923?style=for-the-badge&logo=mongodb&logoColor=4ade80)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Tools & Infra**
+
+![AWS](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-Dhakad&theme=midnight-purple&hide_border=true&background=0d0d14&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Dhakad&theme=midnight-purple&hide_border=true&bg_color=0d0d14&title_color=a78bfa&text_color=c4b5fd&layout=compact&langs_count=8" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Ajay-Dhakad&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&column=7)
+
+</div>
+
+---
+
+## 📡 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-dhakad-01126324b)
+[![Instagram](https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Dhakad_ajay99)
+[![NeuraView](https://img.shields.io/badge/NeuraView_AI-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://neuraview.vercel.app)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ajay-Dhakad&color=7c3aed&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+<sub>
+  <code>// Currently shipping. Always learning. Building toward product-based MNCs.</code>
+</sub>
+</div>
